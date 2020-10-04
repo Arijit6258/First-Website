@@ -1,5 +1,5 @@
 ## First-Website
-This is my first website created using HTML and CSS. I built this website just to get a practical experience of how HTML and CSS works.
+This is the first website I built using HTML and CSS. I built this website just to get a practical experience of how HTML and CSS works.
 This website is a demo website for a company which deals with web development and web design works for different online businesses.
 
 ## Sample pictures
@@ -20,13 +20,13 @@ Service Page :
 
 ## Mobile web browser views : 
 
-Home Pages :
+Home Page :
 
 ![alt text](https://github.com/Arijit6258/First-Website/blob/master/Images/Mobile-Home1.png)
 
 ![alt text](https://github.com/Arijit6258/First-Website/blob/master/Images/Mobile-Home2.png)
 
-Service Pages :
+Service Page :
 
 ![alt text](https://github.com/Arijit6258/First-Website/blob/master/Images/Mobile-Services1.png)
 
