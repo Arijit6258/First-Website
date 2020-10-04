@@ -1,8 +1,18 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
-    line-height: 1.5em;
+    line-height: 2em;
     background-color: #f4f4f4;
+}
+
+.sub_button {
+    height: 38px;
+    background-color: tomato;
+    border: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #ffffff;
+    font-size: 15px;
 }
 
 /*global*/
@@ -61,3 +71,48 @@ header a:hover {
 
 /* showcase */
 
+#showcase {
+    min-height: 400px;
+    background: url('/Images/showcase.jpg') no-repeat 0 -250px;
+    color: white; 
+    text-align: center;
+}
+
+
+#showcase h1 {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-size: 50px;
+}
+
+#showcase p {
+    font-size: 20px;
+}
+
+
+#newsletter{
+    padding: 15px;
+    color: #ffffff;
+    background-color: #35424a;
+}
+
+#newsletter h1 {
+    float: left;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+#newsletter form {
+    float: right;
+    margin-top: 15px;
+}
+
+#newsletter #container {
+    height: 50px;
+}
+
+#newsletter input[type = "email"] {
+    padding: 4px;
+    height: 25px;
+    width: 250px;
+}
